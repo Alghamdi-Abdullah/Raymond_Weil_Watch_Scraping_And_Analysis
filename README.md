@@ -33,7 +33,6 @@ Ensure you have Python and Jupyter Notebook installed on your machine. The proje
 ### Installation
 
 1. **Clone the repository**:
-git clone https://github.com/yourusername/your-repository.git
 
 
 ### Running the Notebook
@@ -41,7 +40,7 @@ git clone https://github.com/yourusername/your-repository.git
 To explore the visualizations:
 
 1. **Launch Jupyter Notebook**:
-cd your-repository
+
 
 
 ### Running the Notebook
@@ -49,7 +48,6 @@ cd your-repository
 To explore the visualizations:
 
 1. **Launch Jupyter Notebook**:
-jupyter notebook
 
 2. **Open the notebook file** from the Jupyter interface in your browser.
 
