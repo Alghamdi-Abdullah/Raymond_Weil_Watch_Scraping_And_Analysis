@@ -1,4 +1,4 @@
-# Raymond Weil Watch Data Analysis Project
+# Raymond Weil Watch Scraping & Analysis Project
 
 ## Project Overview
 This repository hosts the work for a data engineering project focused on scraping and analyzing watch data from the Raymond Weil website(https://www.raymond-weil.com/en/). Developed during a data engineering bootcamp facilitated by the Saudi Digital Academy in collaboration with WeCloudData, this project showcases a practical application of data engineering techniques from data extraction to visualization.
